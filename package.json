@@ -4,7 +4,7 @@
   "description": "Craft the perfect resume for work at Bullhorn Creative",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/emarkert/bullhorn-resume-generator/issues"
   },
-  "homepage": "https://github.com/emarkert/bullhorn-resume-generator#readme"
+  "homepage": "https://github.com/emarkert/bullhorn-resume-generator#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
 }
