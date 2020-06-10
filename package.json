@@ -1,0 +1,19 @@
+{
+  "name": "bullhornresumeapp",
+  "version": "1.0.0",
+  "description": "Craft the perfect resume for work at Bullhorn Creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emarkert/bullhorn-resume-generator.git"
+  },
+  "author": "Evan Markert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emarkert/bullhorn-resume-generator/issues"
+  },
+  "homepage": "https://github.com/emarkert/bullhorn-resume-generator#readme"
+}
