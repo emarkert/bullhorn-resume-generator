@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
+
+.btn {
+    @apply inline-block px-5 py-3 tracking-wider font-semibold text-sm;
+}
+
+.btn:focus {
+ @apply shadow-outline outline-none;
+}
+
+.btn-primary {
+    @apply  bg-black text-white  uppercase;
+}
+
+.btn-primary:hover {
+    @apply bg-white text-black shadow-xl;
+}
+
+.btn-primary:active {
+    @apply bg-gray-300;
+}
+
+.btn-secondary {
+    @apply  bg-white text-black border border-black border-solid;
+}
+
+.btn-secondary:hover {
+    @apply bg-black text-white;
+}
+
+
+.btn-secondary:active {
+    @apply bg-gray-300 text-black;
+}
+
 @tailwind utilities;
