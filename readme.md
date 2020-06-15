@@ -15,7 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 * [Tailwind CSS](http://www.tailwindcss.com/) - Utility-first CSS Framework
-* [Alpine.js](https://github.com/alpinejs/alpine/) - Utility-first JS Framework
 * [NodeJS](https://nodejs.org/) 
 
 ## Authors
