@@ -1,107 +1,125 @@
 {
-  "1": {
+  "id": "1", 
+  "job": {
     "employer": "Adam's Lawn Service",
     "title": "Owner",
     "location": "Lexington, KY",
     "date": "1998-2003"
   },
-  "2": {
+  "id": 2", 
+  "job" {
     "employer": "Adam's Custom Vinyl Graphics",
     "title": "Owner",
     "location": "Lexington, KY",
     "date": "2001-2003"
   },
-  "3": {
+  "id": 3", 
+  "job" {
     "employer": "Dwayne's Electrical",
     "title": "Electrician's Assistant",
     "location": "Frankfort, KY",
     "date": "2002"
   },
-  "4": {
+  "id": 4", 
+  "job" {
     "employer": "Meijer",
     "title": "Cashier",
     "location": "Lexington, KY",
     "date": "2003"
   },
-  "5": {
+  "id": 5", 
+  "job" {
     "employer": "Quizno's",
     "title": "Sandwich Maker and Dishwasher",
     "location": "Richmond, KY",
     "date": "2004"
   },
-  "6": {
+  "id": 6", 
+  "job" {
     "employer": "Kentucky Horse Park",
     "title": "Grounds Crew",
     "location": "Lexington, KY",
     "date": "2004"
   },
-  "7": {
+  "id": 7", 
+  "job" {
     "employer": "Blimpie's",
     "title": "Sandwich Maker and Cashier",
     "location": "Richmond, KY",
     "date": "2004-2005"
   },
-  "8": {
+  "id": 8", 
+  "job" {
     "employer": "National Car Rental",
     "title": "Car Detailer",
     "location": "Lexington, KY",
     "date": "2004-2005"
   },
-  "9": {
+  "id": 9", 
+  "job" {
     "employer": "Centenary Christian Church",
     "title": "Weekend Janitor",
     "location": "Lexington, KY",
     "date": "2005"
   },
-  "10": {
+  "id": 10, 
+  "job": {
     "employer": "Liquor World",
     "title": "Stock Boy",
     "location": "Lexington, KY",
     "date": "2005-2006"
   },
-  "11": {
+  "id": 11, 
+  "job": {
     "employer": "Square D",
     "title": "Fuse Box Assembly Line",
     "location": "Lexington, KY",
     "date": "2006"
   },
-  "12": {
+  "id": 12, 
+  "job": {
     "employer": "Sign Source",
     "title": "Graphic Designer and Installer",
     "location": "Lexington, KY",
     "date": "2007-2008"
   },
-  "13": {
+  "id": 13, 
+  "job": {
     "employer": "Injected Performance",
     "title": "Graphic Designer and Photographer",
     "location": "Lexington, KY",
     "date": "2008"
   },
-  "14": {
+  "id": 14, 
+  "job": {
     "employer": "Adam Kuhn Design",
     "title": "Freelance Graphic Designer",
     "location": "Lexington, KY",
     "date": "2008-2012"
   },
-  "15": {
+  "id": 15, 
+  "job": {
     "employer": "Lexmark International",
     "title": "Graphic Designer and Interface Designer",
     "location": "Lexington, KY",
     "date": "2008-2010"
   },
-  "16": {
+  "id": 16, 
+  "job": {
     "employer": "Lexmark International",
     "title": "Interface Design Team Lead",
     "location": "Lexington, KY",
     "date": "2010-2011"
   },
-  "17": {
+  "id": 17, 
+  "job": {
     "employer": "Bullhorn",
     "title": "Creative Director",
     "location": "Lexington, KY",
     "date": "2011-Present"
   },
-  "18": {
+  "id": 18, 
+  "job": {
     "employer": "Bullhorn",
     "title": "Partner",
     "location": "Lexington, KY",
