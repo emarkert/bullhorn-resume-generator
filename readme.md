@@ -26,14 +26,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Evan Markert** - *Initial work* - [Bullhorn](https://bullhorncreative.com)
+* **Evan Markert** - [Bullhorn](https://bullhorncreative.com)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to my friends at Bullhorn for the inspiration and volunteering their data for the project. 
