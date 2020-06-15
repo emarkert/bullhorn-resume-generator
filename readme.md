@@ -8,9 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Project Requirements
 
-* Req 1
-* Req 2
-* Req 3
+* Read and parse an external file (such as JSON or CSV) into your application and display some data from that in your app (../data/jobs.json/)
+* Implement a regular expression (regex) to ensure a field either a phone number or an email address is always stored and displayed in the same format 
+* Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program (../data/jobs.json/ is a self-maintained JSON file)
+* Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event) (Resume will use today's date and render on resume component)
 
 ## Built With
 
