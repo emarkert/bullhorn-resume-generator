@@ -4,7 +4,7 @@ let jobs = require('../data/jobs.json');
 // get and store length of jobs obj 
 // let jobsNumber = Object.keys(jobs).length;
 
-// random number generator
+// random number generator reference
 const randomNumber = Math.floor(Math.random() * 20) + 1;
 
 //random key get
@@ -14,6 +14,6 @@ let randomKey = Object.keys(jobs)[Math.floor(Math.random()*Object.keys(jobs).len
 // console.log(jobs[Object.keys(jobs)[Math.floor(Math.random()*Object.keys(jobs).length)]]);
 
 //random job get based on jobs.json length
-let randomJob = jobs[Object.keys(jobs)[Math.floor(Math.random()*Object.keys(jobs).length)]]; 
+let randomJob = Object.values(jobs)[Math.floor((Math.random()*Object.values(jobs).length))] 
 
 console.log(randomJob);
