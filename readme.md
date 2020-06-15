@@ -12,12 +12,6 @@ These instructions will get you a copy of the project up and running on your loc
 * Req 2
 * Req 3
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
 ## Built With
 
 * [Tailwind CSS](http://www.tailwindcss.com/) - Utility-first CSS Framework
